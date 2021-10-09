@@ -1,0 +1,9 @@
+Tarea 03-JS-II
+Diego Ballesteros
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: Como habíamos hablado anteriormente con la declaración "IF", también existe la declaración "FOR" que nos ayuda a ahorrar tiempo, haciendo múltiples cálculos realizando diferentes ciclos o bucles, repitiendo estos cálculos hasta que se cumpla alguna condicón que hayamos establecido. Por lo tanto, como una función, la declaración FOR necesita que establezcamos unas condiciones o "argumentos" como los siguientes: una variable (o contador) de inicio, una condición final para este contador y un paso o avance para el contador. Luego se establece una operación (sea matemática y/o lógica) que se llevará a cabo repetidamente hasta alcanzar la condición final. 
+
+
+&&, ||, !: Ya habíamos visto que la declaración IF nos ayuda a que el computador "tome decisiones" si se cumple una condiciones que le impongamos. Existen otras declaraciones de este tipo, llamadas "operadores lógicos" que nos permitirán tomar más decisiones por medio de sus combinaciones. El primero es el operador && (AND o "y" en inglés) que sirve para relacionar dos condiciones obligando a que las dos se cumplan para que nuestro escenario se convierta en verdadero. El segundo es el operador || (OR o "o" en inglés) que hace que se deba cumplir una condición o la otra para que nuestro escenario sea verdadero. Por último tenemos el operador ! (NOT o "no" en inglés) que se debe tomar como un "que no sea igual a" o "diferente de" por lo que es como el contario de una igualdad. Teniendo el cuidado necesario, la combinación de estos operadores lógicos será de gran ayuda y se podrán plantear muchas situaciones diferentes para las cuales nuestro programa podrá "tomar decisiones" de la manera que queramos. 

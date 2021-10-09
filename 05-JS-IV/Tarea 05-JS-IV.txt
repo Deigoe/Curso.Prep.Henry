@@ -1,0 +1,14 @@
+Tarea 05-JS-IV
+Diego Ballesteros
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Ya que los ARRAYS (o arreglos) sirven para guardar datos, los objetos son una forma mucho más completa para guardar estos datos y poder organizarlos. Esto se hace por medio de la KEY o clave (el nombre que le damos a esta serie de datos) y el VALUE o valor (los datos asociados a esta KEY)
+
+Propiedades: Esta combinación de KEY:VALUE es lo que se llama una propiedad. Al tener varias de estas diferentes propiedades asignadas podemos tener una descripción detallada de un usuario,producto,etc. 
+
+Métodos:Son palabras que al ser asociadas con los arreglos o propiedades, las pueden describir, modificar o borrar. 
+
+Bucle for…in: Esta es una forma para buscar la información dentro de un objeto. Este bucle nos ayuda a buscar lo que necesitamos dentro del objeto, FOR siendo la propiedad que queremos examinar, y IN el objeto dentro el que queremos buscar. 
+
+Notación de puntos vs notación de corchetes: Al escribir el código, existen dos posibilidades para nombrar o "llamar" los valores dentro del objeto; ya sea con puntos o con corchetes. A pesar que las dos funcionan de manera parecida, me parece que es más conveniente usar la notación de puntos cuando estamos buscando algo particular, mientras que la notación de corchetes es más útil cuando se trata de casos generales; por lo que es importante saber usar estas dos notaciones y saber cúando es más conveniente usarlas. 

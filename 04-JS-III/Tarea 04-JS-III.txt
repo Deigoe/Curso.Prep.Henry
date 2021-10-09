@@ -1,0 +1,6 @@
+Tarea 04-JS-III
+Diego Ballesteros
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays: Tenemos diferentes tipos de datos, unos son los numeros, otros son las letras y sus combinaciones (que los llamamos strings). En muchas ocasiones queremos hacer "listas" de numeros o strings. Para hacer esto tenemos que organizar cada dato en una casilla, en un celda donde se almacene el dato. La suma de todas estas casillas donde están los datos se llama un ARRAY o arreglo en español. En estos arreglos es muy facil correr un FOR, ya que con esto se recorrerán todos los datos del arreglo, buscando algún dato que necesitemos de manera rápida. 

@@ -1,0 +1,8 @@
+Tarea 06-JS-V
+Diego Ballesteros
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Prototype: Muchas veces es necesario ahorrar tanto en escritura de código como en memoria de la computadora para procesar las órdenes que le damos. Las funciones muchas veces son utilizadas en muchos objetos y esto implicaría escribirlas y reescribirlas tantas veces como sea necesario. Por esto, la práctica adecuada es utilizar un prototipo (o PROTOTYPE en inglés) que nos permite "llamar" la función cada vez que la necesitemos, ahorrando tiempo y espacio en la memoria.
+
+Constructors (de Clases): Cuando muchos objetos comparten las mismas propiedades también es posible asociarlos a una estructura mayor a la cual se le denomina Clase o Constructor, que es como una plantilla; una estructura que es el "esqueleto" con el que se pueden formar nuevos objetos. 
